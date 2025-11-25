@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # هر 12 ساعت
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,12 +19,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: generate pacman-contribution-graph.svg
+      - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Mahdi-jafarzade
+          github_user_name: mahdi-jafarzade
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
