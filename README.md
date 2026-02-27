@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<!--
-**mahdi-jafarzade/mahdi-jafarzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://x.com/mahdijafarzade_?s=21" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="26" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/_jafarzade83?igsh=MWF4Y2VkZHM2c2JmdA%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="26" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/jafarzade83" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="26" alt="telegram logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;I'm+Mahdi!;Welcome+To+My+Github+Profile!">
+</div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h4 align="center">I’m Mahdi 👋<br>I’m interested in embedded systems, robotics, artificial intelligence, and computer vision. I enjoy building real-world projects using microcontrollers, and continuously learning new tools and technologies.</h4>
+
+###
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" style="height: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="height: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" style="height: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="height: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" style="height: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" style="height: 40px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" style="height: 40px;" />
+</div>
+
+###
